@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Thick Client Top 10
+title: OWASP Thick Client Top 10 Project
 tags: example-tag
 level: 1
 type: code/tool/documentation or other
@@ -9,14 +9,29 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+The OWASP Thick Client Project is a standard awareness document for developers and security analyst. It represents the most common security risks identified in thick client applications. 
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Organizations should adopt this document to ensure that their applications minimize these common risks. Using the OWASP Top 10 is perhaps the most effective first step towards changing the software development culture within your organization into one that produces more secure code.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+You could/should use this project as a:
+* guidance in early stages of Software Development Lifecycle (SDLC) to avoid common vulnerabilities in thick client applications.
+* reference in identifying security loopholes in thick client applications.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+# What is Thick Client Application Security?
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+## Thick Client Application Overview
 
-type: code, tool, documentation, or other
+Thick client are type of applications which run on user's host machine/system and communicate with backend server or database server. Few of the examples are listed below:
+* Microsoft Teams
+* Outlook
+* Skype
+
+With respect to architecture, they are classified as two tier and three tier applications. 
+
+## Security Challenges
+
+
+
+## Security Testing Approch
+
+
