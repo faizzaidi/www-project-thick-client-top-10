@@ -35,3 +35,20 @@ With respect to architecture, they are classified as two tier and three tier app
 ## Security Testing Approch
 
 
+## Thick Client Top 10
+
+Here we have defined similar methodologies like other OWASP Top 10 methodology for a better understanding of end-users. Before confirming this top 10, we will run a voting event within the security industry to provide a consolidated list of testing methodologies.
+
+
+1. Unvalidated Input
+2. Broken Access Control
+3. Weak Authentication 
+4. Session-Based Issues or session Management
+5. Buffer Overflows
+6. Injection Flaws
+7. Improper Error Handling
+8. Insecure Storage
+9. Insecure Configuration Management
+10. Using components with a known vulnerability 
+
+
